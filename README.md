@@ -23,6 +23,7 @@ cd <new project name>
 rm -rf ./.git
 git init
 git remote add origin <new project url>
+git add .
 git commit -am "Initial commit"
 git push -u origin master
 npm install
