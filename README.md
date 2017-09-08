@@ -11,6 +11,7 @@ Use this to get started with a new project quickly, with the following already s
 - Directory structure
 - ESLint
 - Mocha
+- Travis
 - License
 - README
 
