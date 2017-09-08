@@ -1,7 +1,7 @@
 {
   "name": "node-skeleton",
   "version": "0.0.0",
-  "description": "Description ",
+  "description": "Get started with Node projects quickly",
   "engines": {
     "node": ">=8.0.0"
   },
