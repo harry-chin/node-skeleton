@@ -1,0 +1,30 @@
+{
+  "name": "node-skeleton",
+  "version": "0.0.0",
+  "description": "Description ",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattdean1/node-skeleton.git"
+  },
+  "author": "Matt Dean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattdean1/node-skeleton/issues"
+  },
+  "homepage": "https://github.com/mattdean1/node-skeleton#readme",
+  "devDependencies": {
+    "eslint": "^4.5.0",
+    "mocha": "^3.5.0",
+    "prettier": "^1.5.3"
+  },
+  "dependencies": {
+    "debug": "^3.0.1"
+  }
+}
